@@ -1,0 +1,24 @@
+======
+README
+======
+
+Author: Andy Todd
+Name: Mainly Green (version 2), updated by Akai for Pyblosxom 1.5.2+
+
+Installation
+============
+
+1. Place the ``html.flav`` directory in the ``flavourdir`` specified in your 
+   ``config.py`` file.
+
+2. Copy the ``halfcooked.css`` file to a directory that is served by your
+   webserver.
+
+3. Edit ``head.html`` and change the ``href`` attribute value in the line::
+
+    <link rel="stylesheet" type="text/css" href="/styles/halfcooked.css" />
+
+   to the url that the ``halfcooked.css`` file will be served from.
+
+
+
