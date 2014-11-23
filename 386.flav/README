@@ -1,0 +1,17 @@
+======
+README
+======
+
+Author: Akai Kitsune
+Name: 386
+
+Installation
+============
+
+1. clone the bootstrap 386 theme into somewhere whener you can server static files: https://github.com/kristopolous/BOOTSTRA.386/
+
+2. Edit ``head.html`` and ``foot.html`` and change the stylesheet and javascript urls to the locations you are serving the files from
+
+Enjoy!
+
+
